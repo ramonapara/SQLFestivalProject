@@ -1,0 +1,4 @@
+De facut:
+3) Mecanism de modificare a bugetului in functie de incasari si cheltuieli
+4) Populare tabele 5/tabela
+5) Documentatie
